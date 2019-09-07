@@ -1,9 +1,33 @@
 {
   "name": "my-app",
   "version": "0.0.1",
+  "description": "Unit Test Demo using Webpack, Mocha, Chai, Sinon and Karma",
   "scripts": {
     "test": "karma start karma.conf.js --color"
   },
+  "keywords": [
+    "Gist",
+    "Demo",
+    "Karma",
+    "Mocha",
+    "Chai",
+    "Sinon",
+    "webpack",
+    "Istanbul",
+    "Coverage",
+    "Boilerplate",
+    "How to"
+  ],
+  "author": "Sachin Singh",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scssyworks/UnitTestDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scssyworks/UnitTestDemo/issues"
+  },
+  "homepage": "https://github.com/scssyworks/UnitTestDemo#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",

@@ -1,7 +1,10 @@
 # Unit Test Demo using Webpack, Karma, Mocha, Chai and Sinon
 
+Created using --> <a href="https://gist.github.com/scssyworks/6b1d4203297f2e9dc0855c4284414f22">GitGub gist</a>.
+
 ## Installation
 
+Clone this repository and run:
 ```sh
 npm install
 ```
